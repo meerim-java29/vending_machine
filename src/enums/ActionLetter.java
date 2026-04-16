@@ -10,6 +10,7 @@ public enum ActionLetter {
     G("g"),
     H("h");
 
+
     private String value;
 
     ActionLetter(String value) {
